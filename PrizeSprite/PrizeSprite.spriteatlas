@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PrizeSprite
+  serializedVersion: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 96b3669092dd2c444ab1543457b0392b, type: 3}
+    - {fileID: 2800000, guid: 0dc753ec2baae134aaac92fab6ecc2f5, type: 3}
+    - {fileID: 2800000, guid: 9ee7f58628d5e7e47b1862f3ccc2580e, type: 3}
+    - {fileID: 2800000, guid: a17d94850e4c5844caceb3feff0de913, type: 3}
+    - {fileID: 2800000, guid: f44a9b0151407c84892e27e185c9ab05, type: 3}
+    - {fileID: 2800000, guid: ffc149869125e884e9830e7d2bc804c1, type: 3}
+    - {fileID: 2800000, guid: 698c50e05cb7cb64b9373872ca576105, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites: []
+  m_PackedSpriteNamesToIndex: []
+  m_RenderDataMap: {}
+  m_Tag: PrizeSprite
+  m_IsVariant: 0
+  m_IsPlaceholder: 0

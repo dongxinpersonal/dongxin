@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RoleSprite
+  serializedVersion: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 9560fcec6b3b5f44aa8c6fb494a84e5f, type: 3}
+    - {fileID: 2800000, guid: 518acc052750ed5428b53ebf1f1742b6, type: 3}
+    - {fileID: 2800000, guid: 1753649f2d8e83e4fb4591b60964083b, type: 3}
+    - {fileID: 2800000, guid: b2c642700e4526b419c70ba569f14f06, type: 3}
+    - {fileID: 2800000, guid: df62743f1f98eaa498dd750d44d909f3, type: 3}
+    - {fileID: 2800000, guid: 9f29c779cda7ba242b441e1cae2de9b3, type: 3}
+    - {fileID: 2800000, guid: 415106941fa65494bb575701ba55fa82, type: 3}
+    - {fileID: 2800000, guid: 7c630f277476ba44fbb6d2023a3a43df, type: 3}
+    - {fileID: 2800000, guid: 2b6a860bbc0dfb34095127890fdbe780, type: 3}
+    - {fileID: 2800000, guid: 2d43af8a6ea30764785921e58c49da2a, type: 3}
+    - {fileID: 2800000, guid: 4962c0405c8d8df43a955fff4095748a, type: 3}
+    - {fileID: 2800000, guid: 54138d89fdebc8f41b25c025a0d25047, type: 3}
+    - {fileID: 2800000, guid: 9d50d92fdb9b2364da2864276da8c698, type: 3}
+    - {fileID: 2800000, guid: ec27f1e4256676240b8afa32b9d046ae, type: 3}
+    - {fileID: 2800000, guid: fc0119ee9d872344586c602be580f6dd, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites: []
+  m_PackedSpriteNamesToIndex: []
+  m_RenderDataMap: {}
+  m_Tag: RoleSprite
+  m_IsVariant: 0
+  m_IsPlaceholder: 0
